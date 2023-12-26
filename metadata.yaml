@@ -1,0 +1,43 @@
+_repo: Memoirs-of-the-Lady-Hester-Stanhope-as-related-by-herself-in-conversations-with-her-physician__72167
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stanhope, Hester, Lady
+    aliases:
+    - Stanhope, Hester Lucy, Lady
+    - Stanhope, Esther, Lady
+    - Stanhope, Lady Hester
+    birthdate: 1776
+    deathdate: 1839
+    gutenberg_agent_id: '56574'
+    url: http://www.gutenberg.org/2009/agents/56574
+    wikipedia: https://en.wikipedia.org/wiki/Lady_Hester_Stanhope
+  editor:
+    agent_name: Meryon, Charles Lewis
+    birthdate: 1783
+    deathdate: 1877
+    gutenberg_agent_id: '56575'
+    url: http://www.gutenberg.org/2009/agents/56575
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Lewis_Meryon
+description: ''
+gutenberg_issued: '2023-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72167'
+language: en
+pgterms:marc904: https://archive.org/details/b24975679_0001
+pgterms:marc905: 20200605224159meryon
+pgterms:marc906: '1846'
+pgterms:marc907: GB
+production_note: Carol Brown, Emmanuel Ackerman and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bHenry Colburn, $c1846.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Memoirs of the Lady Hester Stanhope, as related by herself in conversations
+  with her physician, vol. 3 (of 3)
+url: http://www.gutenberg.org/ebooks/72167
